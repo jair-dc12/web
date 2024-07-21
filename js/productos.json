@@ -1,0 +1,294 @@
+[
+    
+    {
+        "id": "Frappe con Café",
+        "titulo": "Frappe con Café",
+        "imagen": "./img/frappe/frappe-con-cafe.jpeg",  
+        "categoria": {
+            "nombre": "Frappe",
+            "id": "frappe"
+        }, 
+        "precio": 9,
+        "sabores": [
+            {
+                "id": "caramel",
+                "nombre": "Caramel",
+                "imagen": "./img/frappe/2.png"   
+            },
+            {
+                "id": "oreo-chips",
+                "nombre": "Oreo Chips",
+                "imagen": "./img/frappe/3.png"
+            },
+            {
+                "id": "vainilla-chips",
+                "nombre": "Vainilla Chips",
+                "imagen": "./img/frappe/4.png"
+            },
+
+            {
+                "id": "frappe-moka",
+                "nombre": "Frappe Moka",
+                "imagen": "./img/frappe/5.png"
+            }
+
+        ]
+    },
+
+
+    {
+        "id": "Frappe con Chocolate",
+        "titulo": "Frappe con Chocolate",
+        "imagen": "./img/frappe/frappe-con-chocolate.jpeg",  
+        "categoria": {
+            "nombre": "Frappe",
+            "id": "frappe"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "clasico de chocolate",
+                "nombre": "Clasico de Chocolate",
+                "imagen": "./img/frappe/7.png"   
+            },
+            {
+                "id": "choco white",
+                "nombre": "Choco White",
+                "imagen": "./img/frappe/8.png"
+            },
+            {
+                "id": "oreo blanco",
+                "nombre": "Oreo Blanco",
+                "imagen": "./img/frappe/9.png"
+            },
+            {
+                "id": "choco menta",
+                "nombre": "Choco Menta",
+                "imagen": "./img/frappe/10.png"
+            }
+        ]
+    },
+
+    {
+        "id": "Frappe con Sabores",
+        "titulo": "Frappe con Sabores",
+        "imagen": "./img/frappe/frappe-con-sabores.jpeg",  
+        "categoria": {
+            "nombre": "Frappe",
+            "id": "frappe"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "super menta",
+                "nombre": "Super Menta",
+                "imagen": "./img/frappe/7.png"   
+            },
+            {
+                "id": "almendra blue",
+                "nombre": "Almendra Blue",
+                "imagen": "./img/frappe/8.png"
+            },
+            {
+                "id": "furia de frambuesa",
+                "nombre": "Furia de Frambuesa",
+                "imagen": "./img/frappe/9.png"
+            }
+        ]
+    },
+
+    {
+        "id": "Frappe especial",
+        "titulo": "Frappes Especiales",
+        "imagen": "./img/frappe/frappe-especiales.jpeg",  
+        "categoria": {
+            "nombre": "Frappe",
+            "id": "frappe"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "reina valentina",
+                "nombre": "Reina Valentina (16 Onzas)",
+                "imagen": "./img/frappe/7.png"   
+            },
+            {
+                "id": "principe carlos",
+                "nombre": "Principe Carlos (16 Onzas)",
+                "imagen": "./img/frappe/8.png"
+            },
+            {
+                "id": "menta y pistachos",
+                "nombre": "Menta y Pistachos",
+                "imagen": "./img/frappe/9.png"
+            },
+            {
+                "id": "oreo xtreme",
+                "nombre": "Oreo Xtreme (16 Onzas)",
+                "imagen": "./img/frappe/10.png"
+            }
+        ]
+    },
+
+
+
+    {
+        "id": "frappelicores",
+        "titulo": "Frappe con Licores ",
+        "imagen": "./img/frappe/frappe-con-licores.jpeg",  
+        "categoria": {
+            "nombre": "Frappe",
+            "id": "frappe"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "baileys con cafe",
+                "nombre": "Baileys con Café",
+                "imagen": "./img/frappe/12.png"   
+            },
+            {
+                "id": "baileys con chocolate",
+                "nombre": "Baileys con Chocolate",
+                "imagen": "./img/frappe/13.png"
+            },
+            {
+                "id": "sour",
+                "nombre": "Frappe Sour con Pisco",
+                "imagen": "./img/frappe/14.png"
+            }
+            ,
+            {
+                "id": "piña",
+                "nombre": "Piña Colada Frapp",
+                "imagen": "./img/frappe/14.png"
+            }
+        ]
+    },
+
+    {
+        "id": "Frozen",
+        "titulo": "Frozen",
+        "imagen": "./img/frappe/frozen-de-frutas.jpeg",  
+        "categoria": {
+            "nombre": "Frozen",
+            "id": "frozen"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "frozen de freza",
+                "nombre": "Frozen de Fresa",
+                "imagen": "./img/frappe/4.png"   
+            },
+            {
+                "id": "frozen de mango",
+                "nombre": "Frozen de Mango",
+                "imagen": "./img/frappe/5.png"
+            },
+            {
+                "id": "frozen de piña",
+                "nombre": "Frozen de Piña",
+                "imagen": "./img/frappe/6.png"
+            },
+            {
+                "id": "frozen de maracuya",
+                "nombre": "Frozen de Maracuya",
+                "imagen": "./img/frappe/7.png"
+            },
+            {
+                "id": "frozen de sandia",
+                "nombre": "Frozen de Sandia",
+                "imagen": "./img/frappe/8.png"
+            }
+
+        ]
+    },
+    
+
+    {
+        "id": "Sodas",
+        "titulo": "Sodas",
+        "imagen": "./img/frappe/sodas-refrescantes.jpeg",  
+        "categoria": {
+            "nombre": "Sodas",
+            "id": "sodas"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "soda menta",
+                "nombre": "Soda de Menta",
+                "imagen": "./img/frappe/1.png"   
+            },
+            {
+                "id": "soda almendra",
+                "nombre": "Soda de Almendra",
+                "imagen": "./img/frappe/2.png"   
+            },
+            {
+                "id": "soda frambuesa",
+                "nombre": "Soda de Frambuesa",
+                "imagen": "./img/frappe/3.png"   
+            }
+        ]
+    },
+
+
+    {
+        "id": "Milshake",
+        "titulo": "Milshake",
+        "imagen": "./img/frappe/milshake.jpeg",  
+        "categoria": {
+            "nombre": "Milshake",
+            "id": "milshake"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "milshake de chocolate",
+                "nombre": "Milshake de chocolate (16 Onzas)",
+                "imagen": "./img/frappe/1.png"   
+            }
+        ]
+    },
+
+
+
+    {
+        "id": "Te Helado",
+        "titulo": "Té Helado",
+        "imagen": "./img/frappe/te-helado.jpeg",  
+        "categoria": {
+            "nombre": "Te helado",
+            "id": "tehelado"
+        }, 
+        "precio": 50,
+        "sabores": [
+            {
+                "id": "te helado sabor naranja",
+                "nombre": "Te helado de naranja",
+                "imagen": "./img/frappe/10.png"   
+            },
+            {
+                "id": "te helado sabor a limon",
+                "nombre": "Te Helado de Limon",
+                "imagen": "./img/frappe/11.png"
+            }
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
